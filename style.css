@@ -20,7 +20,7 @@ body
 {
 	margin: 0;
 	padding: 20px;
-	background: #ccc;
+	background: #fff;
 	height:50px;
 	background-image: url('haut.jpg');
 	background-repeat: no-repeat;
@@ -34,7 +34,7 @@ body
 {
 	float: left;
 	width: 100%;
-	background: #333;
+	background: #fff;
 }
 
 #navigation ul
